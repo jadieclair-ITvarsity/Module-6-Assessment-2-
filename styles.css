@@ -1,0 +1,33 @@
+*,
+body,
+html {
+  margin: 0 !important;
+  padding: 0;
+}
+
+body {
+  background-color: #000000 !important;
+}
+
+/* Nav bar */
+
+header li.nav-item a:hover {
+  color: #ac3e3e !important;
+}
+
+/* Home page */
+
+h2,
+h3 {
+  color: #ac3e3e !important;
+}
+
+.hero {
+  background: url("./Auto4Sale/images/hero-bg-1.png") no-repeat bottom;
+  background-size: 100%;
+  overflow: hidden;
+}
+
+.logo {
+  width: 8rem;
+}
