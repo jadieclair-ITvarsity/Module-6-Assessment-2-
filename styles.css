@@ -46,6 +46,8 @@ h3 {
   font-style: italic;
 }
 
+/* Media queries  */
+
 @media screen and (max-width: 425px) {
   ul.sellers-box {
     display: none !important;
